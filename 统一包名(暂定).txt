@@ -1,32 +1,32 @@
-﻿包名
-com.ithm.bearboymall
+包名
+com.fox.app
 
-com.ithm.bearboymall.entity		(入口类，javabean)
+com.fox.app.entity     (入口类，javabean)
 
-com.ithm.bearboymall.util 		(工具类)
+com.fox.app.util       (工具类)
 
-com.ithm.bearboymall.net  		(网络数据解析)
+com.fox.app.net        (网络数据解析)
 
-com.ithm.bearboymall.engine 		(引擎类抽象类)
+com.fox.app.engine         (引擎类抽象类)
 
-com.ithm.bearboymall.engine.impl	(引擎类实现类)
+com.fox.app.engine.impl    (引擎类实现类)
 
-com.ithm.bearboymall.ui			(各界面存放位置)
+com.fox.app.ui         (各界面存放位置)
 
-com.ithm.bearboymall.ui.search		(搜索模块)
+com.fox.app.ui.search      (搜索模块)
 
-com.ithm.bearboymall.ui.brand		(专题品牌模块)
+com.fox.app.ui.brand       (专题品牌模块)
 
-com.ithm.bearboymall.ui.shopping	(购物模块)
+com.fox.app.ui.shopping    (购物模块)
 
-com.ithm.bearboymall.ui.category	(商品分类)
+com.fox.app.ui.category    (商品分类)
 
-com.ithm.bearboymall.ui.order		(订单、结算中心等模块)
+com.fox.app.ui.order       (订单、结算中心等模块)
 
-com.ithm.bearboymall.ui.custome		(用户注册登录模块)
+com.fox.app.ui.custome     (用户注册登录模块)
 
-com.ithm.bearboymall.ui.detail		(更多)
+com.fox.app.ui.detail      (更多)
 
-com.ithm.bearboymall.ui.adapter		(适配器实现)
+com.fox.app.ui.adapter     (适配器实现)
 
-com.ithm.bearboymall.engine.test	(测试)
+com.fox.app.engine.test    (测试)
