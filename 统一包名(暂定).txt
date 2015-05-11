@@ -25,6 +25,9 @@ com.fox.app.ui.order       (订单、结算中心等模块)
 
 com.fox.app.ui.custome     (用户注册登录模块)
 
+
+http://siberiawolf.com/free_programming/index.html
+
 com.fox.app.ui.detail      (更多)
 
 com.fox.app.ui.adapter     (适配器实现)
